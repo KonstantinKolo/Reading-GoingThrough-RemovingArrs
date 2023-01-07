@@ -1,0 +1,7 @@
+D:\DomashnaRabota\Reading-GoingThrough-RemovingArrs\1\bin\Debug\1.exe.config
+D:\DomashnaRabota\Reading-GoingThrough-RemovingArrs\1\bin\Debug\1.exe
+D:\DomashnaRabota\Reading-GoingThrough-RemovingArrs\1\bin\Debug\1.pdb
+D:\DomashnaRabota\Reading-GoingThrough-RemovingArrs\1\obj\Debug\1.csproj.AssemblyReference.cache
+D:\DomashnaRabota\Reading-GoingThrough-RemovingArrs\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+D:\DomashnaRabota\Reading-GoingThrough-RemovingArrs\1\obj\Debug\1.exe
+D:\DomashnaRabota\Reading-GoingThrough-RemovingArrs\1\obj\Debug\1.pdb
